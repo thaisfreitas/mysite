@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Thais Freitas, Build node js app guide by tests"
+date: 2018-02-07
+---
+
 ## Let's build node.js web app guide by tests?
 
 You can see the code of this tutorial on [GitHub](https://github.com/thaisfreitas/thaisfreitas/edit/master/index.md) 
@@ -42,4 +48,3 @@ Let's use Express.js to do it in our case, but
 There are options available to do the same work.
 
 `$ npm install --save express body-parser`
-
