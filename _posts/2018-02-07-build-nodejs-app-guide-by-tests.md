@@ -36,11 +36,9 @@ Let's use the _preset_ to be able to use _ES6_:
 **PS:** `--sav-dev` will save this as a development dependencies.  
 
 To finish the _Babel_ setting up let's create a file in the root of the project called `.babelrc` with the following informations:
-`
-{
-    "presets" : ["node6"]
-}
-`
+
+`{"presets" : ["node6"]}`
+
 ### Setting up the web server
 To developer a web application we will need to have a server that will help us to do _HTTP_ requests, data transferring, routs and more. 
 Let's use Express.js to do it in our case, but 
