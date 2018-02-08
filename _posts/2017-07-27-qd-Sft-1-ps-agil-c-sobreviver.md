@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thais Freitas, Software Quality - in a Post Agile Era How To Survive?"
+title: "Thais Freitas, Software Quality - in a Post Agile Era How To Survive?"
 date: 2017-07-27
 ---
 
