@@ -16,3 +16,4 @@ garantia de qualidade eram/são em sua maioria destinadas aos QA's. Esse cenári
 
 **This was the introduction of a talk made in TDC SP 2017, see the deck here.**  [Deck Here](https://www.slideshare.net/thaismoura/qualidade-de-software-em-uma-era-ps-gil-como-sobreviver).
 
+**_WIP_**: I'm writing the transcript of this talk and I will post this text as soon as I finish it here! 
