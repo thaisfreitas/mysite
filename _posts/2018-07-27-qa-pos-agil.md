@@ -4,7 +4,7 @@ title: "Thais Freitas, Software Quality - in a Post Agile Era How To Survive?"
 date: 2017-07-27
 ---
 
-##Qualidade de Software em uma era Pós Ágil, Como sobreviver?"
+## Qualidade de Software em uma era Pós Ágil, Como sobreviver?"
 
 Durante o desenvolvimento de software existem várias atividades que são realizadas para garantir a qualidade do produto 
 final. O time divide as responsabilidades  e atividades durante o ciclo de vida de desenvolvimento, essas atividades de 
